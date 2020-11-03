@@ -22,5 +22,15 @@ namespace Chess
 
             return coords.ToArray();
         }
+
+        public Row GetRow(int index)
+        {
+            return rows[index];
+        }
+
+        public int GetRowCount()
+        {
+            return rows.Count;
+        }
     }
 }
