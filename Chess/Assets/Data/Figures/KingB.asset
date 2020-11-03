@@ -17,3 +17,4 @@ MonoBehaviour:
   prefab: {fileID: 1810274083847610, guid: 309659d4eb727d74d91c4875a85edc00, type: 3}
   rowPosition: 3
   singleInRow: 1
+  moveModel: {fileID: 11400000, guid: 9f720699ac7c7413a9032c1188304e9c, type: 2}

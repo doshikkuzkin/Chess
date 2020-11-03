@@ -17,3 +17,5 @@ MonoBehaviour:
   canSwapDelta: 0
   forwardOnly: 1
   moveDiagonally: 0
+  moveVertOrHor: 0
+  defaultFigureType: 3

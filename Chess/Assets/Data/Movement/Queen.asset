@@ -18,3 +18,4 @@ MonoBehaviour:
   forwardOnly: 0
   moveDiagonally: 1
   moveVertOrHor: 1
+  defaultFigureType: 1

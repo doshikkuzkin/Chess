@@ -10,6 +10,7 @@ namespace Chess
         [SerializeField] private GameObject prefab;
         [SerializeField] private float rowPosition;
         [SerializeField] private bool singleInRow;
+        [SerializeField] private MoveModel moveModel;
 
         public float RowPosition => rowPosition;
 
@@ -20,5 +21,7 @@ namespace Chess
         public bool SingleInRow => singleInRow;
 
         public FigureColor FigureColor => figureColor;
+
+        public MoveModel MoveModel => moveModel;
     }
 }
